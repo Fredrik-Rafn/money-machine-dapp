@@ -11,6 +11,7 @@ A BUSD staking protocol with features, such as:
 - Fees.
 - Owner functionality.
 - Referral system.
+- Coupon system.
 
 ## The dApp
 Made with the old, but golden trio; HTML, CSS, JS (web3js, jquery).
