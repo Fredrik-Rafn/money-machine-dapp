@@ -10,6 +10,7 @@ A BUSD staking protocol with features, such as:
 - 30-day locking period.
 - Fees.
 - Owner functionality.
+- Referral system.
 
 ## The dApp
 Made with the old, but golden trio; HTML, CSS, JS (web3js, jquery).
