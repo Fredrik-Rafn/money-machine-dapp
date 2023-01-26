@@ -2,7 +2,7 @@
 Solidity Smart Contract &amp; dApp made for Money Machine
 
 ### Made for same customer as Money Monster
-https://github.com/selfmade1337/money-monster-dapp
+https://github.com/bcrypt2/money-monster-dapp
 
 ## Solidity Smart Contract
 A BUSD staking protocol with features, such as:
